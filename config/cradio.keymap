@@ -28,7 +28,7 @@
         compatible = "zmk,conditional-layers";
 
         tri_layer {
-            if-layers = <1 1>;
+            if-layers = <2 2>;
             then-layer = <2>;
         };
     };
@@ -45,7 +45,7 @@
             >;
         };
 
-        symbol {
+        sym {
             bindings = <
 &kp TAB       &kp AT_SIGN         &kp HASH                    &kp DOLLAR                        &kp PERCENT    &kp CARET  &kp AMPERSAND     &kp ASTERISK       &kp EXCLAMATION   &kp PIPE
 &ht LGUI ESC  &ht LEFT_ALT MINUS  &ht LCTRL LEFT_PARENTHESIS  &ht LEFT_SHIFT RIGHT_PARENTHESIS  &kp PLUS       &none      &kp LSHFT         &ht LCTRL EQUAL    &ht LEFT_ALT SQT  &kp LGUI
