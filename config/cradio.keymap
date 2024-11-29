@@ -41,7 +41,7 @@
 &kp Q       &kp W           &kp E        &kp R             &kp T        &kp Y      &kp U             &kp I        &kp O           &kp P
 &ht LCMD A  &ht LEFT_ALT S  &ht LCTRL D  &ht LEFT_SHIFT F  &kp G        &kp H      &ht LEFT_SHIFT J  &ht LCTRL K  &ht LEFT_ALT L  &ht LCMD SQT
 &kp Z       &kp X           &kp C        &kp V             &kp B        &kp N      &kp M             &kp COMMA    &kp DOT         &kp FSLH
-                                         &kp BACKSPACE     &kp ENTER    &kp SPACE  &to 1
+                                         &kp BACKSPACE     &kp SPACE    &kp ENTER  &to 1
             >;
         };
 
@@ -50,7 +50,7 @@
 &kp TAB       &kp AT_SIGN         &kp HASH                    &kp DOLLAR                        &kp PERCENT    &kp CARET  &kp AMPERSAND     &kp ASTERISK       &kp EXCLAMATION   &kp PIPE
 &ht LGUI ESC  &ht LEFT_ALT MINUS  &ht LCTRL LEFT_PARENTHESIS  &ht LEFT_SHIFT RIGHT_PARENTHESIS  &kp PLUS       &none      &kp LSHFT         &ht LCTRL EQUAL    &ht LEFT_ALT SQT  &kp LGUI
 &kp CAPS      &none               &kp LEFT_BRACE              &kp RIGHT_BRACE                   &kp TILDE      &none      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &none             &to 3
-                                                              &to 0                             &kp ENTER      &kp SPACE  &to 2
+                                                              &to 0                             &kp SPACE      &kp ENTER  &to 2
             >;
         };
 
@@ -59,7 +59,7 @@
 &kp N1            &kp N2        &kp N3          &kp N4                &kp N5       &kp N6     &kp N7               &kp N8        &kp N9        &kp N0
 &kp LEFT_COMMAND  &kp LEFT_ALT  &ht LCTRL LEFT  &ht LEFT_SHIFT RIGHT  &trans       &trans     &ht LEFT_SHIFT DOWN  &ht LCTRL UP  &kp LEFT_ALT  &kp LGUI
 &trans            &trans        &trans          &trans                &trans       &trans     &trans               &trans        &trans        &to 3
-                                                &to 0                 &kp ENTER    &kp SPACE  &to 1
+                                                &to 0                 &kp SPACE    &kp ENTER  &to 1
             >;
         };
 
